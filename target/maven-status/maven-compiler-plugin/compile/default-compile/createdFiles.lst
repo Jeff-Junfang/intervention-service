@@ -1,0 +1,4 @@
+com/eric/interventionservice/InterventionServiceApplication.class
+com/eric/interventionservice/service/UserServiceClient.class
+com/eric/interventionservice/config/RestTemplateConfig.class
+com/eric/interventionservice/service/impl/UserServiceClientImpl.class
